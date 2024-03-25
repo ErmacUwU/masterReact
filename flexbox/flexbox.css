@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+}
+.flexCont{
+    border: black solid;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #ccc;
+    justify-content: center;
+}
+.caja{
+    margin: 5px;
+    border: 2px solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#caja1{
+    background-color: aqua;
+}
+#caja2{
+    background-color: chocolate;
+}
+#caja 3{
+    background-color: green;
+
+}
