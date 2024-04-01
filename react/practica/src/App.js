@@ -19,7 +19,7 @@ function App() {
             <hr/>
             <Component2/>
             <hr/>
-            <Component3/>
+            <Component3 nombre="Victor" edad="21"/>
           </div>
       </header>
     </div>
